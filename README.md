@@ -15,7 +15,6 @@ Note: Currently only a Windows build is available
 * Use E to open inventory
 * Use ESCAPE to pause
 
-It is recommended to read the tips pdf that comes with the release build
 ## Dependencies
 * [Numpy](https://github.com/numpy/numpy)
 * [opensimplex](https://pypi.org/project/opensimplex/)
