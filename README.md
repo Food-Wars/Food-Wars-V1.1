@@ -11,7 +11,7 @@ Note: Currently only a Windows build is available
 
 ## How to Play
 * Use WASD to move
-* Use Q to attack
+* Use J to attack/break
 * Use E to open inventory
 * Use ESCAPE to pause
 
