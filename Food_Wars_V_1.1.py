@@ -1,15 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  4 19:10:23 2025
-
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  1 08:12:39 2024
-
-@author: zrobi
-"""
 
 #import defult libraries
 import os
